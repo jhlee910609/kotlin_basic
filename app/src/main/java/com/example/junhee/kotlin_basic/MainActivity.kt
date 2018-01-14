@@ -127,6 +127,8 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    object Dog
+
 
 
 
